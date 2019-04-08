@@ -8,7 +8,7 @@
 		<version>2.1.4.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.sqli  </groupId>
+	<groupId>com.sqli</groupId>
 	<artifactId>nlpRest-ver2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>nlpRest-ver2</name>
@@ -34,7 +34,7 @@
 			<scope>test</scope>
 		</dependency>
 		
-		 <!-- coreNLP dependency -->
+		   <!-- coreNLP dependency -->
         <dependency>
             <groupId>edu.stanford.nlp</groupId>
             <artifactId>stanford-corenlp</artifactId>
@@ -47,6 +47,7 @@
             <version>3.9.2</version>
             <classifier>models</classifier>
         </dependency>
+        
         
 		
 	</dependencies>
